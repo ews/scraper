@@ -4,7 +4,7 @@
   "description": "website scraper",
   "main": "lib/index.js",
   "files": [
-    "lib/*"
+    "src/*"
   ],
   "homepage": "https://github.com/ews/scraper#readme",
   "author": "Jon Stuebe <jstuebe@gmail.com>",
