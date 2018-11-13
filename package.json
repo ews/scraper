@@ -1,5 +1,5 @@
 {
-  "name": "ews/scraper",
+  "name": "@ews/scraper",
   "version": "0.1.5",
   "description": "website scraper",
   "main": "lib/index.js",
