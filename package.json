@@ -1,19 +1,19 @@
 {
-  "name": "@jonstuebe/scraper",
-  "version": "0.1.4",
+  "name": "ews/scraper",
+  "version": "0.1.5",
   "description": "website scraper",
   "main": "lib/index.js",
   "files": [
     "lib/*"
   ],
-  "homepage": "https://github.com/jonstuebe/scraper#readme",
+  "homepage": "https://github.com/ews/scraper#readme",
   "author": "Jon Stuebe <jstuebe@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonstuebe/scraper.git"
+    "url": "git+https://github.com/ews/scraper.git"
   },
   "bugs": {
-    "url": "https://github.com/jonstuebe/scraper/issues"
+    "url": "https://github.com/ews/scraper/issues"
   },
   "engines": {
     "node": "8.6.0"
